@@ -6,7 +6,7 @@
 #    By: rrhnizar <rrhnizar@student.1337.ma>        +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/09/12 11:21:48 by rrhnizar          #+#    #+#              #
-#    Updated: 2023/09/17 15:28:54 by rrhnizar         ###   ########.fr        #
+#    Updated: 2023/09/17 20:07:28 by rrhnizar         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -26,7 +26,7 @@ RFLAG = ${CXX} -Wall -Werror -Wextra -std=c++98
 
 all : ${Name}
 
-${Name} : ${OBJ} whatever.hpp
+${Name} : ${OBJ} iter.hpp
 	${RFLAG} ${OBJ} -o ${Name}
 
 clean :

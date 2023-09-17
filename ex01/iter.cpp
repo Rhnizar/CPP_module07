@@ -6,13 +6,14 @@
 /*   By: rrhnizar <rrhnizar@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/17 15:32:51 by rrhnizar          #+#    #+#             */
-/*   Updated: 2023/09/17 15:34:37 by rrhnizar         ###   ########.fr       */
+/*   Updated: 2023/09/17 20:04:09 by rrhnizar         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "iter.hpp"
 
-void iter()
-{
-	
-}
+// void iter(T* array, size_t lenght, Func)
+// {
+// 	(void)array;
+// 	(void)lenght;
+// }
