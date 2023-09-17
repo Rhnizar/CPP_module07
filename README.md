@@ -1,1 +1,10 @@
-R
+![en subject-01](https://github.com/Rhnizar/CPP_module07/assets/64803406/43101cec-7e52-4c73-a24a-2c49b3a40c5d)
+![en subject-02](https://github.com/Rhnizar/CPP_module07/assets/64803406/81994a3a-4aeb-4569-bc4b-f8ccb8289cca)
+![en subject-03](https://github.com/Rhnizar/CPP_module07/assets/64803406/4b576c31-bf31-46f6-bf15-969e72f7304a)
+![en subject-04](https://github.com/Rhnizar/CPP_module07/assets/64803406/41c3aba0-fba5-4823-a2c4-7e4a77007725)
+![en subject-05](https://github.com/Rhnizar/CPP_module07/assets/64803406/fd654654-9de5-4e04-bfd9-dc4da463661c)
+![en subject-06](https://github.com/Rhnizar/CPP_module07/assets/64803406/1842dae1-0a04-44c0-8e07-225646758ac9)
+![en subject-07](https://github.com/Rhnizar/CPP_module07/assets/64803406/b079bf3e-fe93-4ed1-8863-84c017fa03c6)
+![en subject-08](https://github.com/Rhnizar/CPP_module07/assets/64803406/1a9927c7-6c57-4b67-b686-95128c758563)
+![en subject-09](https://github.com/Rhnizar/CPP_module07/assets/64803406/f21663c6-88bf-4fc0-91b7-4c05e4d0f23a)
+![en subject-10](https://github.com/Rhnizar/CPP_module07/assets/64803406/3106a5c7-194e-479c-9407-1e073332a8ae)
