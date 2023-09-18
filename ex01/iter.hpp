@@ -6,7 +6,7 @@
 /*   By: rrhnizar <rrhnizar@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/17 15:32:54 by rrhnizar          #+#    #+#             */
-/*   Updated: 2023/09/17 20:22:53 by rrhnizar         ###   ########.fr       */
+/*   Updated: 2023/09/18 11:04:34 by rrhnizar         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -23,15 +23,10 @@ void iter(T* array, size_t lenght, Func func)
 }
 
 template <typename T>
-void	printElement(T& element)
+void	printElement(const T& element)
 {
 	std::cout << element << std::endl;
 }
 
-template <typename T>
-void squareElement(T& element)
-{
-    element *= element;
-}
 
 #endif
