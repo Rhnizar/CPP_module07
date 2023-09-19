@@ -6,7 +6,7 @@
 /*   By: rrhnizar <rrhnizar@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/17 20:28:23 by rrhnizar          #+#    #+#             */
-/*   Updated: 2023/09/18 13:54:41 by rrhnizar         ###   ########.fr       */
+/*   Updated: 2023/09/19 16:11:26 by rrhnizar         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -42,17 +42,18 @@ class Array
 		}
 		Array(const Array& otherArray)
 		{
+			array = NULL;
 			*this = otherArray;
 		}
 		Array& operator=(const Array& otherArray)
 		{
 			if (this != &otherArray)
 			{
-				delete this->array;
-				this->array = new T[otherArray.sizeArray];
+				delete[] array;
+				array = new T[otherArray.sizeArray];
 				for(unsigned int i=0; i<otherArray.sizeArray; i++)
-						this->array[i] = otherArray.array[i];
-				this->sizeArray = otherArray.sizeArray;
+						array[i] = otherArray.array[i];
+				sizeArray = otherArray.sizeArray;
 			}
 			return *this;
 		}
